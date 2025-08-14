@@ -5,7 +5,7 @@ I have a data of the beverage sales and operating margins in which coca-cola bra
 # 1. Sales Per Month
 <img width="1252" height="504" alt="image" src="https://github.com/user-attachments/assets/14faba43-1739-45fb-9562-cf98ea57a016" />
 
-# 2. Sales by Region
+## 2. Sales by Region
 <img width="1216" height="485" alt="image" src="https://github.com/user-attachments/assets/7c18a13c-0fdb-410d-b807-9a81dd88ac32" />
 
 # 3. Sales by Retailer
