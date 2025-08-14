@@ -20,4 +20,20 @@ I have a data of the beverage sales and operating margins in which coca-cola bra
 # 6. Sales by Brand and Month
 <img width="1707" height="443" alt="image" src="https://github.com/user-attachments/assets/f6265800-3184-438d-b0d9-28155b9e6cff" />
 
+# 7. Sales by Brand and Region
+<img width="1731" height="539" alt="image" src="https://github.com/user-attachments/assets/e1e126e3-9e2f-41a3-a1d5-2c27c0c252d5" />
+
+# 8. Monthly Sales Trend by Beverage Brand
+<img width="1609" height="446" alt="image" src="https://github.com/user-attachments/assets/ebe13fc3-05e9-49a0-8430-702b6a537ab9" />
+
+# 9. Sales Trend For Region by Brand
+<img width="770" height="474" alt="image" src="https://github.com/user-attachments/assets/2bfe8707-6e11-4f19-9b95-793c757b3728" />
+
+# 10. Sum of Units Sold by Different Retailer and Beverage Brand
+<img width="761" height="473" alt="image" src="https://github.com/user-attachments/assets/51e67601-8c63-4c57-96cd-7bf6dc013664" />
+
+
+
+
+
 
