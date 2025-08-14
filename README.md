@@ -1,6 +1,5 @@
 # Coke-Sales-Analysis
-Data Analysis Project About the company selling coke
-I have a data of the beverage sales and operating margins in which coca-cola brand is also included and i need to analyze this data to get insights.
+This project focuses on analyzing beverage industry sales and operating margins, with particular attention to the Coca-Cola brand. The dataset includes performance metrics across multiple beverage categories, enabling a comparative study of market trends, profitability, and brand positioning. By examining sales volumes, revenue contributions, and operating margins, this analysis aims to uncover insights into Coca-Cola’s competitive standing, growth opportunities, and the broader dynamics of the beverage sector.
 
 # 1. Sales Per Month
 <img width="1252" height="504" alt="image" src="https://github.com/user-attachments/assets/14faba43-1739-45fb-9562-cf98ea57a016" />
